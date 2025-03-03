@@ -1,2 +1,2 @@
-# Computer-Architecture-151B
+# RISC-V CPU Pipeline Project
 Project implementation for Gshare Branch predictor
