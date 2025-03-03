@@ -1,2 +1,2 @@
-# RISC-V CPU Pipeline Project
+# RISC-V CPU Simulator Project
 Project implementation for Gshare Branch predictor
